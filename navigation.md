@@ -1,4 +1,4 @@
-# Think of SEWONIST
+# Think of IPL
 
 [gimmick:Theme (inverse: false)](flatly)
 

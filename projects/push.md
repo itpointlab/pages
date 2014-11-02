@@ -8,3 +8,7 @@
 ```
 no valid 'aps-environment' entitlement string found for application 
 ```
+
+- http://stackoverflow.com/questions/13432203/no-valid-aps-environment-entitlement-string-found-for-application
+
+[gimmick:Disqus](itpointlab-github-io)

@@ -21,3 +21,5 @@ PC나 모바일에서 전화선을 이용하는 구식 팩스머신으로 팩스
 - http://www.aholme.co.uk/Exchange/Design.htm
 - http://www.epanorama.net/circuits/teleinterface.html
 - http://navasgroup.com/attwireless/fax.htm
+
+[gimmick:Disqus](itpointlab-github-io)
